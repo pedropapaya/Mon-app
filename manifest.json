@@ -3,8 +3,6 @@
   "short_name": "Révision",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#ff69b4",
   "icons": [
     {
       "src": "icon.png",
